@@ -13,7 +13,7 @@ Mixdrop es un proyecto full-stack de un juego web multijugador, inspirado en Dro
 🏆 Sistema de ranking – Gana puntos en cada partida y asciende en la clasificación mundial.
 🎮 Panel de administración y perfiles – Gestión avanzada de usuarios y personalización de perfil.
  
-## Construido con 🛠️
+# Construido con 🛠️
 
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height=40px>
@@ -27,21 +27,21 @@ Mixdrop es un proyecto full-stack de un juego web multijugador, inspirado en Dro
 * [SoundTouch](https://www.bose.es/es_es/apps/soundtouch.html) - Librería de audio
 * [NAudio](https://github.com/naudio/NAudio) - Librería de audio
 
-## Visualización 🎨
+# Visualización 🎨
 <img src="https://github.com/maria99r/mixdrop/blob/main/capturas/Captura_inicio.PNG" width=90%>
 <img src="https://github.com/maria99r/mixdrop/blob/main/capturas/Captura_juego.PNG" width=90%>
 <img src="https://github.com/maria99r/mixdrop/blob/main/capturas/Captura_ranking.PNG" width=90%>
 
-## Autores ✒️
+# Autores ✒️
 
 * **María Rosales Román** - [maria99r](https://github.com/maria99r)
 * **Rocio Gonfaus Luengo** - [rocigonf](https://github.com/rocigonf)
 * **Mauricio Rosso Aboy** - [moguism](https://github.com/moguism)
 
-## Licencia 📄
+# Licencia 📄
 
 Este proyecto se ha creado con fines educativos.
 
-## Mención especial 🎁
+# Mención especial 🎁
 
 Agradecimientos a nuestro profesor de Acceso a Datos, José Santos.
